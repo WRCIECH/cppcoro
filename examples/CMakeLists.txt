@@ -1,0 +1,2 @@
+add_executable(CoroutinesInAction main.cpp)
+target_link_libraries(CoroutinesInAction cppcoro)

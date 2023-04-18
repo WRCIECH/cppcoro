@@ -93,8 +93,7 @@ namespace cppcoro
 		file_read_operation_impl m_impl;
 
 	};
-
-#endif
 }
+#endif
 
 #endif
